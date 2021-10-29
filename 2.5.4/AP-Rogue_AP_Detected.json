@@ -1,1 +1,27 @@
-{"alert_type": "Rogue AP detected", "description": "An AP (NAME 84:d4:7e:c5:c8:8c and MAC address 84:d4:7e:c5:c8:8con RADIO 1)    detected an access point      (BSSID  0c:00:01:34:69:62 and SSID ssid1 on CHANNEL 52) as rogue", "timestamp": 1564326128, "webhook": "780c65a0-10b6-4eb1-b725-21b0d52aa432", "setting_id": "201804170291-10", "state": "Open", "nid": 10, "details": {"_rule_number": "0", "group": "1", "labels": "", "params": ["84:d4:7e:c5:c8:8c", "84:d4:7e:c5:c8:8c", "1", "0c:00:01:34:69:62", "ssid1", "52"], "time": "2019-07-28 15:02:08 UTC"}, "operation": "create", "device_id": "CT0779239", "id": "AWw5Gm1zVQO1ZtiJK89l", "severity": "Critical"}
+{
+    "alert_type": "Rogue AP detected",
+    "description": "An AP (NAME 84:d4:7e:c5:c8:8c and MAC address 84:d4:7e:c5:c8:8con RADIO 1)    detected an access point      (BSSID  0c:00:01:34:69:62 and SSID ssid1 on CHANNEL 52) as rogue",
+    "timestamp": 1564326128,
+    "webhook": "780c65a0-10b6-4eb1-b725-21b0d52aa432",
+    "setting_id": "201804170291-10",
+    "state": "Open",
+    "nid": 10,
+    "details": {
+        "_rule_number": "0",
+        "group": "1",
+        "labels": "",
+        "params": [
+            "84:d4:7e:c5:c8:8c",
+            "84:d4:7e:c5:c8:8c",
+            "1",
+            "0c:00:01:34:69:62",
+            "ssid1",
+            "52"
+        ],
+        "time": "2019-07-28 15:02:08 UTC"
+    },
+    "operation": "create",
+    "device_id": "CT0779239",
+    "id": "AWw5Gm1zVQO1ZtiJK89l",
+    "severity": "Critical"
+}

@@ -1,1 +1,24 @@
-{"id": "AXvFH4hFo68tULajP1c9", "nid": 1306, "alert_type": "SWITCH_INTERFACE_DUPLEX_MODE", "setting_id": "6ec75df161974434b54e298a353d11f3-1306", "device_id": "SG9ZKN7050", "description": "Interface 1/1/2 on switch 6300 with serial    SG9ZKN7050 is operating at Half-Duplex mode", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1631099783, "details": {"group": "2848", "labels": "", "name": "6300", "serial": "SG9ZKN7050", "intf_name": "1/1/2", "mode": "Half", "time": "2021-09-08 11:16:23 UTC"}, "webhook": "76f4af2c-a47c-4726-b9d3-133c45e8f436", "text": "Interface 1/1/2 on switch 6300 with serial    SG9ZKN7050 is operating at Half-Duplex mode", "cluster_hostname": "app-yoda.arubathena.com"}
+{
+    "id": "AXvFH4hFo68tULajP1c9",
+    "nid": 1306,
+    "alert_type": "SWITCH_INTERFACE_DUPLEX_MODE",
+    "setting_id": "6ec75df161974434b54e298a353d11f3-1306",
+    "device_id": "SG9ZKN7050",
+    "description": "Interface 1/1/2 on switch 6300 with serial    SG9ZKN7050 is operating at Half-Duplex mode",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1631099783,
+    "details": {
+        "group": "2848",
+        "labels": "",
+        "name": "6300",
+        "serial": "SG9ZKN7050",
+        "intf_name": "1/1/2",
+        "mode": "Half",
+        "time": "2021-09-08 11:16:23 UTC"
+    },
+    "webhook": "76f4af2c-a47c-4726-b9d3-133c45e8f436",
+    "text": "Interface 1/1/2 on switch 6300 with serial    SG9ZKN7050 is operating at Half-Duplex mode",
+    "cluster_hostname": "app-yoda.arubathena.com"
+}

@@ -1,1 +1,22 @@
-{"alert_type": "User account deleted", "description": "User with name v@gmail.com deleted.", "timestamp": 1569234480, "webhook": "057b0a95-9f06-4a0f-b4bf-149a28d749b3", "setting_id": "573b0412517a41c8a73a80f3e74ff0d2-15", "state": "Open", "nid": 15, "details": {"group": "-1", "labels": "None", "params": ["v@gmail.com"], "_rule_number": "0", "time": "2019-09-23 10:28:00 UTC"}, "operation": "create", "device_id": "", "id": "AW1dqe6rYu0OgJ2alXzT", "severity": "Major"}
+{
+    "alert_type": "User account deleted",
+    "description": "User with name v@gmail.com deleted.",
+    "timestamp": 1569234480,
+    "webhook": "057b0a95-9f06-4a0f-b4bf-149a28d749b3",
+    "setting_id": "573b0412517a41c8a73a80f3e74ff0d2-15",
+    "state": "Open",
+    "nid": 15,
+    "details": {
+        "group": "-1",
+        "labels": "None",
+        "params": [
+            "v@gmail.com"
+        ],
+        "_rule_number": "0",
+        "time": "2019-09-23 10:28:00 UTC"
+    },
+    "operation": "create",
+    "device_id": "",
+    "id": "AW1dqe6rYu0OgJ2alXzT",
+    "severity": "Major"
+}

@@ -1,1 +1,30 @@
-{"id": "AXe2GwY1o68tULajexWO", "nid": 1600, "alert_type": "WAN_UPLINK_FLAP", "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1600", "device_id": "CNJJKLB0G6", "description": "Uplink inet_inet link status flapped 1% on device WTH_9004-1 with serial CNJJKLB0G6    for about 15 minutes since 2021-02-18 16:51:00 UTC.", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1613667960, "details": {"intf_name": "inet_inet", "status": "DOWN", "current_status": "UP", "uplink_tag": "inet_inet", "hostname": "WTH_9004-1", "unit": "%", "serial": "CNJJKLB0G6", "group": "36", "labels": "8", "_rule_number": "0", "ds_key": "6039f9543bac449291bfcd19eb10d1eb.CNJJKLB0G6.uplink.flap.5m", "duration": "15", "threshold": "1", "time": "2021-02-18 16:51:00 UTC"}, "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee", "text": "Uplink inet_inet link status flapped 1% on device WTH_9004-1 with serial CNJJKLB0G6    for about 15 minutes since 2021-02-18 16:51:00 UTC."}
+{
+    "id": "AXe2GwY1o68tULajexWO",
+    "nid": 1600,
+    "alert_type": "WAN_UPLINK_FLAP",
+    "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1600",
+    "device_id": "CNJJKLB0G6",
+    "description": "Uplink inet_inet link status flapped 1% on device WTH_9004-1 with serial CNJJKLB0G6    for about 15 minutes since 2021-02-18 16:51:00 UTC.",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1613667960,
+    "details": {
+        "intf_name": "inet_inet",
+        "status": "DOWN",
+        "current_status": "UP",
+        "uplink_tag": "inet_inet",
+        "hostname": "WTH_9004-1",
+        "unit": "%",
+        "serial": "CNJJKLB0G6",
+        "group": "36",
+        "labels": "8",
+        "_rule_number": "0",
+        "ds_key": "6039f9543bac449291bfcd19eb10d1eb.CNJJKLB0G6.uplink.flap.5m",
+        "duration": "15",
+        "threshold": "1",
+        "time": "2021-02-18 16:51:00 UTC"
+    },
+    "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee",
+    "text": "Uplink inet_inet link status flapped 1% on device WTH_9004-1 with serial CNJJKLB0G6    for about 15 minutes since 2021-02-18 16:51:00 UTC."
+}

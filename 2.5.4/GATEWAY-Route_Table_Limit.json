@@ -1,1 +1,23 @@
-{"id": "AXeEaOYlo68tULajX4gT", "nid": 1357, "alert_type": "CONTROLLER ROUTE TABLE CAPACITY", "setting_id": "a847a3aea73d4ba7b34c00323fb9ee7a-1357", "device_id": "CP0059047", "description": "Routing table for device Legacy-2.1-BGW2-A7005_5F_9A_2A exceeded    threshold(serial=CP0059047, IP=111.1.10.1, count=3463, max=4096)", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612834203, "details": {"serial": "CP0059047", "ip_address": "111.1.10.1", "count": "3463", "hostname": "Legacy-2.1-BGW2-A7005_5F_9A_2A", "max": "4096", "group": "21", "time": "2021-02-09 01:30:03 UTC"}, "webhook": "f6f2b19a-31d5-445c-b340-eb1ca8a6fdd8", "text": "Routing table for device Legacy-2.1-BGW2-A7005_5F_9A_2A exceeded    threshold(serial=CP0059047, IP=111.1.10.1, count=3463, max=4096)"}
+{
+    "id": "AXeEaOYlo68tULajX4gT",
+    "nid": 1357,
+    "alert_type": "CONTROLLER ROUTE TABLE CAPACITY",
+    "setting_id": "a847a3aea73d4ba7b34c00323fb9ee7a-1357",
+    "device_id": "CP0059047",
+    "description": "Routing table for device Legacy-2.1-BGW2-A7005_5F_9A_2A exceeded    threshold(serial=CP0059047, IP=111.1.10.1, count=3463, max=4096)",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612834203,
+    "details": {
+        "serial": "CP0059047",
+        "ip_address": "111.1.10.1",
+        "count": "3463",
+        "hostname": "Legacy-2.1-BGW2-A7005_5F_9A_2A",
+        "max": "4096",
+        "group": "21",
+        "time": "2021-02-09 01:30:03 UTC"
+    },
+    "webhook": "f6f2b19a-31d5-445c-b340-eb1ca8a6fdd8",
+    "text": "Routing table for device Legacy-2.1-BGW2-A7005_5F_9A_2A exceeded    threshold(serial=CP0059047, IP=111.1.10.1, count=3463, max=4096)"
+}

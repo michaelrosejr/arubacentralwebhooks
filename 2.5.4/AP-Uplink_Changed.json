@@ -1,1 +1,27 @@
-{"id": "AXdhmSSKo68tULajRH4M", "nid": 17, "alert_type": "Uplink Changed", "setting_id": "b8be21720dc04a8e9f0028374b6a9bbd-17", "device_id": "GRUT000003", "description": "Uplink changed from Ethernet to WiFi Mesh for AP GRUT000003 with MAC address 3d:62:d4:3f:90:00", "state": "Open", "severity": "Major", "operation": "create", "timestamp": 1612250162, "details": {"group": "0", "labels": "", "_rule_number": "0", "params": ["Ethernet", "WiFi Mesh", "GRUT000003", "3d:62:d4:3f:90:00"], "serial": "GRUT000003", "time": "2021-02-02 07:16:02 UTC"}, "webhook": "31a75d0a-dfd4-4c22-a32b-09d7b033d41e", "text": "Uplink changed from Ethernet to WiFi Mesh for AP GRUT000003 with MAC address 3d:62:d4:3f:90:00"}
+{
+    "id": "AXdhmSSKo68tULajRH4M",
+    "nid": 17,
+    "alert_type": "Uplink Changed",
+    "setting_id": "b8be21720dc04a8e9f0028374b6a9bbd-17",
+    "device_id": "GRUT000003",
+    "description": "Uplink changed from Ethernet to WiFi Mesh for AP GRUT000003 with MAC address 3d:62:d4:3f:90:00",
+    "state": "Open",
+    "severity": "Major",
+    "operation": "create",
+    "timestamp": 1612250162,
+    "details": {
+        "group": "0",
+        "labels": "",
+        "_rule_number": "0",
+        "params": [
+            "Ethernet",
+            "WiFi Mesh",
+            "GRUT000003",
+            "3d:62:d4:3f:90:00"
+        ],
+        "serial": "GRUT000003",
+        "time": "2021-02-02 07:16:02 UTC"
+    },
+    "webhook": "31a75d0a-dfd4-4c22-a32b-09d7b033d41e",
+    "text": "Uplink changed from Ethernet to WiFi Mesh for AP GRUT000003 with MAC address 3d:62:d4:3f:90:00"
+}

@@ -1,1 +1,20 @@
-{"alert_type": "New User account added", "description": "User account setting updated for user: newuser@gmail.com with language:en_US and idle timeout: 1800", "timestamp": 1569234534, "webhook": "057b0a95-9f06-4a0f-b4bf-149a28d749b3", "setting_id": "573b0412517a41c8a73a80f3e74ff0d2-14", "state": "Open", "nid": 14, "details": {"group": "-1", "labels": "None", "params": [], "_rule_number": "0", "time": "2019-09-23 10:28:54 UTC"}, "operation": "create", "device_id": "", "id": "AW1dqr6nYu0OgJ2alX1l", "severity": "Major"}
+{
+    "alert_type": "New User account added",
+    "description": "User account setting updated for user: newuser@gmail.com with language:en_US and idle timeout: 1800",
+    "timestamp": 1569234534,
+    "webhook": "057b0a95-9f06-4a0f-b4bf-149a28d749b3",
+    "setting_id": "573b0412517a41c8a73a80f3e74ff0d2-14",
+    "state": "Open",
+    "nid": 14,
+    "details": {
+        "group": "-1",
+        "labels": "None",
+        "params": [],
+        "_rule_number": "0",
+        "time": "2019-09-23 10:28:54 UTC"
+    },
+    "operation": "create",
+    "device_id": "",
+    "id": "AW1dqr6nYu0OgJ2alX1l",
+    "severity": "Major"
+}

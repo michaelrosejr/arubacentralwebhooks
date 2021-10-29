@@ -1,1 +1,26 @@
-{"alert_type": "SWITCH_INTERFACE_TX_RATE", "description": "Transfer rate for Interface 19 on Switch Aruba-2930F-24G-PoEP-4SFPP has been    above 1 % for about 5 minutes since 2019-09-26 13:18:00 UTC.", "timestamp": 1569504180, "webhook": "4d588353-3355-487d-81af-c97f62b0abb0", "setting_id": "e344d961bccd411dbd279bf92f61b989-1302", "state": "Open", "nid": 1302, "details": {"_rule_number": "0", "group": "1", "name": "Aruba-2930F-24G-PoEP-4SFPP", "max_value_for_percentage": "1000.0", "threshold": "1", "intf_name": "19", "time": "2019-09-26 13:18:00 UTC", "duration": "5", "ds_key": "e344d961bccd411dbd279bf92f61b989.CN8AHKW095.intf.tx_utilization.5m", "serial": "CN8AHKW095", "unit": "%"}, "operation": "create", "device_id": "CN8AHKW095", "id": "AW1tvTgBYu0OgJ2aoCgk", "severity": "Critical"}
+{
+    "alert_type": "SWITCH_INTERFACE_TX_RATE",
+    "description": "Transfer rate for Interface 19 on Switch Aruba-2930F-24G-PoEP-4SFPP has been    above 1 % for about 5 minutes since 2019-09-26 13:18:00 UTC.",
+    "timestamp": 1569504180,
+    "webhook": "4d588353-3355-487d-81af-c97f62b0abb0",
+    "setting_id": "e344d961bccd411dbd279bf92f61b989-1302",
+    "state": "Open",
+    "nid": 1302,
+    "details": {
+        "_rule_number": "0",
+        "group": "1",
+        "name": "Aruba-2930F-24G-PoEP-4SFPP",
+        "max_value_for_percentage": "1000.0",
+        "threshold": "1",
+        "intf_name": "19",
+        "time": "2019-09-26 13:18:00 UTC",
+        "duration": "5",
+        "ds_key": "e344d961bccd411dbd279bf92f61b989.CN8AHKW095.intf.tx_utilization.5m",
+        "serial": "CN8AHKW095",
+        "unit": "%"
+    },
+    "operation": "create",
+    "device_id": "CN8AHKW095",
+    "id": "AW1tvTgBYu0OgJ2aoCgk",
+    "severity": "Critical"
+}

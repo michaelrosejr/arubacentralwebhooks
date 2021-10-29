@@ -1,1 +1,29 @@
-{"id": "AXdhYFnIo68tULajREe5", "nid": 1259, "alert_type": "AP_RADIO_NON_WIFI_OVER_UTILIZATION", "setting_id": "55ef4ae129a24c2180e010708202b502-1259", "device_id": "DZ0001581", "description": "Radio Non-Wifi utilization on AP f0:5c:19:c9:f7:6a operating on channel 6    and serving 0 clients has been above 1% for about 5 minutes since 2021-02-02 06:09:00 UTC", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612246440, "details": {"name": "f0:5c:19:c9:f7:6a", "_band": "0", "_radio_num": "1", "channel": "6", "client_count": "0", "unit": "%", "serial": "DZ0001581", "group": "1", "_rule_number": "0", "ds_key": "55ef4ae129a24c2180e010708202b502.DZ0001581.radio.interference", "duration": "5", "threshold": "1", "time": "2021-02-02 06:09:00 UTC"}, "webhook": "110576c0-59fb-4295-b53b-fdbafbc95dee", "text": "Radio Non-Wifi utilization on AP f0:5c:19:c9:f7:6a operating on channel 6    and serving 0 clients has been above 1% for about 5 minutes since 2021-02-02 06:09:00 UTC"}
+{
+    "id": "AXdhYFnIo68tULajREe5",
+    "nid": 1259,
+    "alert_type": "AP_RADIO_NON_WIFI_OVER_UTILIZATION",
+    "setting_id": "55ef4ae129a24c2180e010708202b502-1259",
+    "device_id": "DZ0001581",
+    "description": "Radio Non-Wifi utilization on AP f0:5c:19:c9:f7:6a operating on channel 6    and serving 0 clients has been above 1% for about 5 minutes since 2021-02-02 06:09:00 UTC",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612246440,
+    "details": {
+        "name": "f0:5c:19:c9:f7:6a",
+        "_band": "0",
+        "_radio_num": "1",
+        "channel": "6",
+        "client_count": "0",
+        "unit": "%",
+        "serial": "DZ0001581",
+        "group": "1",
+        "_rule_number": "0",
+        "ds_key": "55ef4ae129a24c2180e010708202b502.DZ0001581.radio.interference",
+        "duration": "5",
+        "threshold": "1",
+        "time": "2021-02-02 06:09:00 UTC"
+    },
+    "webhook": "110576c0-59fb-4295-b53b-fdbafbc95dee",
+    "text": "Radio Non-Wifi utilization on AP f0:5c:19:c9:f7:6a operating on channel 6    and serving 0 clients has been above 1% for about 5 minutes since 2021-02-02 06:09:00 UTC"
+}

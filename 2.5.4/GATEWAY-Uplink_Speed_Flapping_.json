@@ -1,1 +1,29 @@
-{"id": "AXwCtmSrKFHq3kj2s2hh", "nid": 1602, "alert_type": "WAN_AUTO_NEGOTIATION_FLAP", "setting_id": "082445a5b8264597bce334f932c9a3a4-1602", "device_id": "TWJCKSP01C", "description": "Uplink GE0/0/1 speed flapped 1% on device Aruba9004-LTE_95_EA_76 with     serial TWJCKSP01C for about 15 minutes since 2021-09-20 10:03:00 UTC.", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1632133080, "details": {"intf_name": "GE0/0/1", "speed": "1000", "new_speed": "100", "hostname": "Aruba9004-LTE_95_EA_76", "serial": "TWJCKSP01C", "group": "6", "labels": "8,7", "unit": "%", "_rule_number": "0", "ds_key": "082445a5b8264597bce334f932c9a3a4.TWJCKSP01C.uplink.speed.flap.5m", "duration": "15", "threshold": "1", "time": "2021-09-20 10:03:00 UTC"}, "webhook": "4a1b58b1-3371-471e-8093-73c07fb6b384", "text": "Uplink GE0/0/1 speed flapped 1% on device Aruba9004-LTE_95_EA_76 with     serial TWJCKSP01C for about 15 minutes since 2021-09-20 10:03:00 UTC."}
+{
+    "id": "AXwCtmSrKFHq3kj2s2hh",
+    "nid": 1602,
+    "alert_type": "WAN_AUTO_NEGOTIATION_FLAP",
+    "setting_id": "082445a5b8264597bce334f932c9a3a4-1602",
+    "device_id": "TWJCKSP01C",
+    "description": "Uplink GE0/0/1 speed flapped 1% on device Aruba9004-LTE_95_EA_76 with     serial TWJCKSP01C for about 15 minutes since 2021-09-20 10:03:00 UTC.",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1632133080,
+    "details": {
+        "intf_name": "GE0/0/1",
+        "speed": "1000",
+        "new_speed": "100",
+        "hostname": "Aruba9004-LTE_95_EA_76",
+        "serial": "TWJCKSP01C",
+        "group": "6",
+        "labels": "8,7",
+        "unit": "%",
+        "_rule_number": "0",
+        "ds_key": "082445a5b8264597bce334f932c9a3a4.TWJCKSP01C.uplink.speed.flap.5m",
+        "duration": "15",
+        "threshold": "1",
+        "time": "2021-09-20 10:03:00 UTC"
+    },
+    "webhook": "4a1b58b1-3371-471e-8093-73c07fb6b384",
+    "text": "Uplink GE0/0/1 speed flapped 1% on device Aruba9004-LTE_95_EA_76 with     serial TWJCKSP01C for about 15 minutes since 2021-09-20 10:03:00 UTC."
+}

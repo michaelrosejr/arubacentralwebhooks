@@ -1,1 +1,27 @@
-{"id": "AXbhjMPpKHBn24BIWnGc", "nid": 203, "alert_type": "Switch Disconnected", "setting_id": "f1ae23ba9025490cb53efb0993e05f17-203", "device_id": "CN80HKW2Z6", "description": "Switch with serial CN80HKW2Z6, MAC address 54:80:28:61:b3:20 IP address 10.21.20.231   and Hostname Aruba-2930F-24G-PoEP-4SFPP reconnected", "state": "Close", "severity": "Major", "operation": "update", "timestamp": 1612383547, "details": {"params": ["CN80HKW2Z6", "54:80:28:61:b3:20", "10.21.20.231", "Aruba-2930F-24G-PoEP-4SFPP", "", ""], "serial": "CN80HKW2Z6", "time": "2021-01-08 10:31:07 UTC", "conn_status": "reconnected"}, "webhook": "8077a55e-f8d3-43af-a67f-12263f5b778e", "text": "Switch with serial CN80HKW2Z6, MAC address 54:80:28:61:b3:20 IP address 10.21.20.231    and Hostname Aruba-2930F-24G-PoEP-4SFPP reconnected"}
+{
+    "id": "AXbhjMPpKHBn24BIWnGc",
+    "nid": 203,
+    "alert_type": "Switch Disconnected",
+    "setting_id": "f1ae23ba9025490cb53efb0993e05f17-203",
+    "device_id": "CN80HKW2Z6",
+    "description": "Switch with serial CN80HKW2Z6, MAC address 54:80:28:61:b3:20 IP address 10.21.20.231   and Hostname Aruba-2930F-24G-PoEP-4SFPP reconnected",
+    "state": "Close",
+    "severity": "Major",
+    "operation": "update",
+    "timestamp": 1612383547,
+    "details": {
+        "params": [
+            "CN80HKW2Z6",
+            "54:80:28:61:b3:20",
+            "10.21.20.231",
+            "Aruba-2930F-24G-PoEP-4SFPP",
+            "",
+            ""
+        ],
+        "serial": "CN80HKW2Z6",
+        "time": "2021-01-08 10:31:07 UTC",
+        "conn_status": "reconnected"
+    },
+    "webhook": "8077a55e-f8d3-43af-a67f-12263f5b778e",
+    "text": "Switch with serial CN80HKW2Z6, MAC address 54:80:28:61:b3:20 IP address 10.21.20.231    and Hostname Aruba-2930F-24G-PoEP-4SFPP reconnected"
+}

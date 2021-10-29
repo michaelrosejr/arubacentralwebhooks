@@ -1,1 +1,25 @@
-{"id": "AXdnqE9jo68tULajSR8X", "nid": 1554, "alert_type": "CFG_SET_ADVERTISEMENT_FAILURE", "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1554", "device_id": "BIM0010001", "description": "CFG-Set advertisement failure for Gateway BIM0010001 with serial    BIM0010001 on tunnel default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6 from    10.1.1.1 to 200.1.1.6", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612351819, "details": {"src_ip": "10.1.1.1", "dst_ip": "200.1.1.6", "alias_map_name": "default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6", "map_name": "default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6", "hostname": "BIM0010001", "serial": "BIM0010001", "group": "0", "labels": [], "time": "2021-02-03 11:30:19 UTC"}, "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee", "text": "CFG-Set advertisement failure for Gateway BIM0010001 with serial    BIM0010001 on tunnel default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6 from    10.1.1.1 to 200.1.1.6"}
+{
+    "id": "AXdnqE9jo68tULajSR8X",
+    "nid": 1554,
+    "alert_type": "CFG_SET_ADVERTISEMENT_FAILURE",
+    "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1554",
+    "device_id": "BIM0010001",
+    "description": "CFG-Set advertisement failure for Gateway BIM0010001 with serial    BIM0010001 on tunnel default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6 from    10.1.1.1 to 200.1.1.6",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612351819,
+    "details": {
+        "src_ip": "10.1.1.1",
+        "dst_ip": "200.1.1.6",
+        "alias_map_name": "default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6",
+        "map_name": "default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6",
+        "hostname": "BIM0010001",
+        "serial": "BIM0010001",
+        "group": "0",
+        "labels": [],
+        "time": "2021-02-03 11:30:19 UTC"
+    },
+    "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee",
+    "text": "CFG-Set advertisement failure for Gateway BIM0010001 with serial    BIM0010001 on tunnel default-local-vpnip-data-ipsecmap-00:1a:1e:04:27:48-link6 from    10.1.1.1 to 200.1.1.6"
+}

@@ -1,1 +1,26 @@
-{"id": "AXdnjuvwo68tULajSQyc", "nid": 1506, "alert_type": "WAN_UPLINK_AUTONEGOTIATION_STATE_CHANGE", "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1506", "device_id": "CNJJKLB0NZ", "description": "WAN ports autonegotiaton speed changed from 1000 Mbps to Auto Mbps    for device WTH-9004-3 with serial CNJJKLB0NZ for uplink GE0/0/1 at 2021-02-03 11:02:35 UTC", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612350155, "details": {"intf_name": "GE0/0/1", "speed": "1000", "new_speed": "Auto", "hostname": "WTH-9004-3", "serial": "CNJJKLB0NZ", "group": "36", "labels": ["8"], "time": "2021-02-03 11:02:35 UTC"}, "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee", "text": "WAN ports autonegotiaton speed changed from 1000 Mbps to Auto Mbps for    device WTH-9004-3 with serial CNJJKLB0NZ for uplink GE0/0/1 at 2021-02-03 11:02:35 UTC"}
+{
+    "id": "AXdnjuvwo68tULajSQyc",
+    "nid": 1506,
+    "alert_type": "WAN_UPLINK_AUTONEGOTIATION_STATE_CHANGE",
+    "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1506",
+    "device_id": "CNJJKLB0NZ",
+    "description": "WAN ports autonegotiaton speed changed from 1000 Mbps to Auto Mbps    for device WTH-9004-3 with serial CNJJKLB0NZ for uplink GE0/0/1 at 2021-02-03 11:02:35 UTC",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612350155,
+    "details": {
+        "intf_name": "GE0/0/1",
+        "speed": "1000",
+        "new_speed": "Auto",
+        "hostname": "WTH-9004-3",
+        "serial": "CNJJKLB0NZ",
+        "group": "36",
+        "labels": [
+            "8"
+        ],
+        "time": "2021-02-03 11:02:35 UTC"
+    },
+    "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee",
+    "text": "WAN ports autonegotiaton speed changed from 1000 Mbps to Auto Mbps for    device WTH-9004-3 with serial CNJJKLB0NZ for uplink GE0/0/1 at 2021-02-03 11:02:35 UTC"
+}

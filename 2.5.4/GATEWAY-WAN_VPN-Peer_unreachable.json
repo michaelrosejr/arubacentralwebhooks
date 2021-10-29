@@ -1,1 +1,26 @@
-{"id": "AXdncVpfo68tULajSPzi", "nid": 1502, "alert_type": "WAN_UPLINK_REACHABILITY_VPN_PEER_FAILED", "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1502", "device_id": "CNJJKLB0HB", "description": "WAN reachability check failed for Gateway WTH_9004-2 with serial CNJJKLB0HB    to VPN peer 192.168.103.99 on uplink inet2_inet. Default-gateway is unreachable.", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612348217, "details": {"ip": "192.168.103.99", "intf_name": "inet2_inet", "default_gw_status": "unreachable", "hostname": "WTH_9004-2", "serial": "CNJJKLB0HB", "group": "36", "labels": ["8"], "time": "2021-02-03 10:30:17 UTC"}, "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee", "text": "WAN reachability check failed for Gateway WTH_9004-2 with serial CNJJKLB0HB to    VPN peer 192.168.103.99 on uplink inet2_inet. Default-gateway is unreachable."}
+{
+    "id": "AXdncVpfo68tULajSPzi",
+    "nid": 1502,
+    "alert_type": "WAN_UPLINK_REACHABILITY_VPN_PEER_FAILED",
+    "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1502",
+    "device_id": "CNJJKLB0HB",
+    "description": "WAN reachability check failed for Gateway WTH_9004-2 with serial CNJJKLB0HB    to VPN peer 192.168.103.99 on uplink inet2_inet. Default-gateway is unreachable.",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612348217,
+    "details": {
+        "ip": "192.168.103.99",
+        "intf_name": "inet2_inet",
+        "default_gw_status": "unreachable",
+        "hostname": "WTH_9004-2",
+        "serial": "CNJJKLB0HB",
+        "group": "36",
+        "labels": [
+            "8"
+        ],
+        "time": "2021-02-03 10:30:17 UTC"
+    },
+    "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee",
+    "text": "WAN reachability check failed for Gateway WTH_9004-2 with serial CNJJKLB0HB to    VPN peer 192.168.103.99 on uplink inet2_inet. Default-gateway is unreachable."
+}

@@ -1,1 +1,21 @@
-{"id": "AXdr-dsfo68tULajS0bj", "nid": 1356, "alert_type": "GATEWAY_BASE_LICENSE_CAPACITY_EXCEEDED", "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1356", "device_id": "SCA0000073", "description": "Base license capacity limit exceeded for Gateway with    name: CSIM_SCA0000073, serial: SCA0000073", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612424272, "details": {"group": "0", "labels": [], "name": "CSIM_SCA0000073", "serial": "SCA0000073", "time": "2021-02-04 07:37:52 UTC"}, "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee", "text": "Base license capacity limit exceeded for Gateway with    name: CSIM_SCA0000073, serial: SCA0000073"}
+{
+    "id": "AXdr-dsfo68tULajS0bj",
+    "nid": 1356,
+    "alert_type": "GATEWAY_BASE_LICENSE_CAPACITY_EXCEEDED",
+    "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1356",
+    "device_id": "SCA0000073",
+    "description": "Base license capacity limit exceeded for Gateway with    name: CSIM_SCA0000073, serial: SCA0000073",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612424272,
+    "details": {
+        "group": "0",
+        "labels": [],
+        "name": "CSIM_SCA0000073",
+        "serial": "SCA0000073",
+        "time": "2021-02-04 07:37:52 UTC"
+    },
+    "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee",
+    "text": "Base license capacity limit exceeded for Gateway with    name: CSIM_SCA0000073, serial: SCA0000073"
+}

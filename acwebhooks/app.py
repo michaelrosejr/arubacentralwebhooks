@@ -113,7 +113,7 @@ def writefiles(cver, fdata, DEBUG=None):
         log.info("Created :%s", fdir)
         if not DEBUG:
             with open(fdir, "w", encoding='utf-8' ) as f_json:
-                json.dump(value, f_json)
+                json.dump(value, f_json, indent=4)
         else:
             print(value)
 

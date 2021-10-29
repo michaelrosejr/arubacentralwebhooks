@@ -1,1 +1,25 @@
-{"id": "AXeDCfY2o68tULajXkth", "nid": 1358, "alert_type": "CONTROLLER BGP NEIGHBOR ROUTE LIMIT", "setting_id": "a847a3aea73d4ba7b34c00323fb9ee7a-1358", "device_id": "CV0012105", "description": "BGP neighbor 172.30.1.102 route limit exceeded on device    MDC1-VPNC1-KSA-03_E1_A0(router_id=10.53.9.44, ASN=3002, serial=CV0012105, limit=1,action=warning)", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612811204, "details": {"serial": "CV0012105", "action": "warning", "hostname": "MDC1-VPNC1-KSA-03_E1_A0", "limit": "1", "nbr_addr": "172.30.1.102", "nbr_id": "10.53.9.44", "nbr_as": "3002", "group": "12", "time": "2021-02-08 19:06:44 UTC"}, "webhook": "f6f2b19a-31d5-445c-b340-eb1ca8a6fdd8", "text": "BGP neighbor 172.30.1.102 route limit exceeded on device    MDC1-VPNC1-KSA-03_E1_A0(router_id=10.53.9.44, ASN=3002, serial=CV0012105, limit=1,action=warning)"}
+{
+    "id": "AXeDCfY2o68tULajXkth",
+    "nid": 1358,
+    "alert_type": "CONTROLLER BGP NEIGHBOR ROUTE LIMIT",
+    "setting_id": "a847a3aea73d4ba7b34c00323fb9ee7a-1358",
+    "device_id": "CV0012105",
+    "description": "BGP neighbor 172.30.1.102 route limit exceeded on device    MDC1-VPNC1-KSA-03_E1_A0(router_id=10.53.9.44, ASN=3002, serial=CV0012105, limit=1,action=warning)",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612811204,
+    "details": {
+        "serial": "CV0012105",
+        "action": "warning",
+        "hostname": "MDC1-VPNC1-KSA-03_E1_A0",
+        "limit": "1",
+        "nbr_addr": "172.30.1.102",
+        "nbr_id": "10.53.9.44",
+        "nbr_as": "3002",
+        "group": "12",
+        "time": "2021-02-08 19:06:44 UTC"
+    },
+    "webhook": "f6f2b19a-31d5-445c-b340-eb1ca8a6fdd8",
+    "text": "BGP neighbor 172.30.1.102 route limit exceeded on device    MDC1-VPNC1-KSA-03_E1_A0(router_id=10.53.9.44, ASN=3002, serial=CV0012105, limit=1,action=warning)"
+}

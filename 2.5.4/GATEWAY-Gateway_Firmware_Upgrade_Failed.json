@@ -1,1 +1,24 @@
-{"id": "AXvSPh4-KFHq3kj2rcg9", "nid": 2201, "alert_type": "GW_FW_UPGRADE_FAILURE", "setting_id": "082445a5b8264597bce334f932c9a3a4-2201", "device_id": "", "description": "Firmware upgrade failed for gateway    (NAME Aruba9004-LTE_95_EA_76 SN  MAC 20:4c:03:95:ea:76)", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1631319891, "details": {"mac": "20:4c:03:95:ea:76", "hostname": "Aruba9004-LTE_95_EA_76", "serial": "", "group": "6", "labels": "", "_rule_number": "0", "params": "", "time": "2021-09-11 00:24:51 UTC"}, "webhook": "87fae42a-78ec-45c0-a22a-4f81417cad56", "text": "Firmware upgrade failed for gateway    (NAME Aruba9004-LTE_95_EA_76 SN  MAC 20:4c:03:95:ea:76)"}
+{
+    "id": "AXvSPh4-KFHq3kj2rcg9",
+    "nid": 2201,
+    "alert_type": "GW_FW_UPGRADE_FAILURE",
+    "setting_id": "082445a5b8264597bce334f932c9a3a4-2201",
+    "device_id": "",
+    "description": "Firmware upgrade failed for gateway    (NAME Aruba9004-LTE_95_EA_76 SN  MAC 20:4c:03:95:ea:76)",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1631319891,
+    "details": {
+        "mac": "20:4c:03:95:ea:76",
+        "hostname": "Aruba9004-LTE_95_EA_76",
+        "serial": "",
+        "group": "6",
+        "labels": "",
+        "_rule_number": "0",
+        "params": "",
+        "time": "2021-09-11 00:24:51 UTC"
+    },
+    "webhook": "87fae42a-78ec-45c0-a22a-4f81417cad56",
+    "text": "Firmware upgrade failed for gateway    (NAME Aruba9004-LTE_95_EA_76 SN  MAC 20:4c:03:95:ea:76)"
+}

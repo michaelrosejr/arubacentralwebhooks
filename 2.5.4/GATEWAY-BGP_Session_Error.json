@@ -1,1 +1,22 @@
-{"id": "AXeCfcXbbbaB9p462rCU", "nid": 1355, "alert_type": "CONTROLLER BGP SESSION ERROR", "setting_id": "417fc95887044bcba9b3e2ce3830aecb-1355", "device_id": "DL0002986", "description": "BGP neighbor 103.1.1.2 is down (router-id=197.0.0.3, ASN=103, serial=DL0002986)", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612802016, "details": {"serial": "DL0002986", "nbr_addr": "103.1.1.2", "nbr_as": "103", "nbr_id": "197.0.0.3", "group": "57", "time": "2021-02-08 16:33:36 UTC"}, "webhook": "5cbc87e4-9eb5-45d2-b890-b21db89ca5b4", "text": "BGP neighbor 103.1.1.2 is down (router-id=197.0.0.3, ASN=103, serial=DL0002986)"}
+{
+    "id": "AXeCfcXbbbaB9p462rCU",
+    "nid": 1355,
+    "alert_type": "CONTROLLER BGP SESSION ERROR",
+    "setting_id": "417fc95887044bcba9b3e2ce3830aecb-1355",
+    "device_id": "DL0002986",
+    "description": "BGP neighbor 103.1.1.2 is down (router-id=197.0.0.3, ASN=103, serial=DL0002986)",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612802016,
+    "details": {
+        "serial": "DL0002986",
+        "nbr_addr": "103.1.1.2",
+        "nbr_as": "103",
+        "nbr_id": "197.0.0.3",
+        "group": "57",
+        "time": "2021-02-08 16:33:36 UTC"
+    },
+    "webhook": "5cbc87e4-9eb5-45d2-b890-b21db89ca5b4",
+    "text": "BGP neighbor 103.1.1.2 is down (router-id=197.0.0.3, ASN=103, serial=DL0002986)"
+}

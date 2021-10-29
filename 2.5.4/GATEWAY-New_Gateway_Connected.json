@@ -1,1 +1,28 @@
-{"id": "AXd96oFqo68tULajWy28", "nid": 301, "alert_type": "NEW_GATEWAY_DETECTED", "setting_id": "abce082bef4a428bb31366f6d6ff223f-301", "device_id": "CP0021763", "description": "New Gateway GSK-7005-2 with serial CP0021763, MAC address 20:4c:03:11:eb:78 and IP    address 172.168.1.1 connected, Group:unprovisioned", "state": "Open", "severity": "Warning", "operation": "create", "timestamp": 1612725256, "details": {"group": "1", "labels": "", "_rule_number": "0", "params": ["CP0021763", "20:4c:03:11:eb:78", "172.168.1.1", "GSK-7005-2"], "serial": "CP0021763", "time": "2021-02-07 19:14:16 UTC", "group_name": "unprovisioned"}, "webhook": "52e0abbd-cdda-45f2-bd68-3107fef43841", "text": "New Gateway GSK-7005-2 with serial CP0021763, MAC address 20:4c:03:11:eb:78 and IP    address 172.168.1.1 connected, Group:unprovisioned"}
+{
+    "id": "AXd96oFqo68tULajWy28",
+    "nid": 301,
+    "alert_type": "NEW_GATEWAY_DETECTED",
+    "setting_id": "abce082bef4a428bb31366f6d6ff223f-301",
+    "device_id": "CP0021763",
+    "description": "New Gateway GSK-7005-2 with serial CP0021763, MAC address 20:4c:03:11:eb:78 and IP    address 172.168.1.1 connected, Group:unprovisioned",
+    "state": "Open",
+    "severity": "Warning",
+    "operation": "create",
+    "timestamp": 1612725256,
+    "details": {
+        "group": "1",
+        "labels": "",
+        "_rule_number": "0",
+        "params": [
+            "CP0021763",
+            "20:4c:03:11:eb:78",
+            "172.168.1.1",
+            "GSK-7005-2"
+        ],
+        "serial": "CP0021763",
+        "time": "2021-02-07 19:14:16 UTC",
+        "group_name": "unprovisioned"
+    },
+    "webhook": "52e0abbd-cdda-45f2-bd68-3107fef43841",
+    "text": "New Gateway GSK-7005-2 with serial CP0021763, MAC address 20:4c:03:11:eb:78 and IP    address 172.168.1.1 connected, Group:unprovisioned"
+}

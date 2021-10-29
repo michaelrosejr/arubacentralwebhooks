@@ -1,1 +1,30 @@
-{"id": "AXe2H5oGo68tULajexfD", "nid": 1601, "alert_type": "WAN_TUNNEL_FLAP", "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1601", "device_id": "CNJJKLB0G6", "description": "Tunnel WTH_9004-1:inet_inet::GSK_VPNC2:vlan103 status flapped 1% on device    WTH_9004-1 with serial CNJJKLB0G6 for about 15 minutes since 2021-02-18 16:56:00 UTC.", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1613668260, "details": {"src_ip": "192.168.32.10", "dst_ip": "192.168.103.99", "alias_map_name": "WTH_9004-1:inet_inet::GSK_VPNC2:vlan103", "uplink_tag": "inet_inet", "hostname": "WTH_9004-1", "unit": "%", "serial": "CNJJKLB0G6", "group": "36", "labels": "8", "_rule_number": "0", "ds_key": "6039f9543bac449291bfcd19eb10d1eb.CNJJKLB0G6.uplink.tunnel.flap.5m", "duration": "15", "threshold": "1", "time": "2021-02-18 16:56:00 UTC"}, "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee", "text": "Tunnel WTH_9004-1:inet_inet::GSK_VPNC2:vlan103 status flapped 1% on device    WTH_9004-1 with serial CNJJKLB0G6 for about 15 minutes since 2021-02-18 16:56:00 UTC."}
+{
+    "id": "AXe2H5oGo68tULajexfD",
+    "nid": 1601,
+    "alert_type": "WAN_TUNNEL_FLAP",
+    "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1601",
+    "device_id": "CNJJKLB0G6",
+    "description": "Tunnel WTH_9004-1:inet_inet::GSK_VPNC2:vlan103 status flapped 1% on device    WTH_9004-1 with serial CNJJKLB0G6 for about 15 minutes since 2021-02-18 16:56:00 UTC.",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1613668260,
+    "details": {
+        "src_ip": "192.168.32.10",
+        "dst_ip": "192.168.103.99",
+        "alias_map_name": "WTH_9004-1:inet_inet::GSK_VPNC2:vlan103",
+        "uplink_tag": "inet_inet",
+        "hostname": "WTH_9004-1",
+        "unit": "%",
+        "serial": "CNJJKLB0G6",
+        "group": "36",
+        "labels": "8",
+        "_rule_number": "0",
+        "ds_key": "6039f9543bac449291bfcd19eb10d1eb.CNJJKLB0G6.uplink.tunnel.flap.5m",
+        "duration": "15",
+        "threshold": "1",
+        "time": "2021-02-18 16:56:00 UTC"
+    },
+    "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee",
+    "text": "Tunnel WTH_9004-1:inet_inet::GSK_VPNC2:vlan103 status flapped 1% on device    WTH_9004-1 with serial CNJJKLB0G6 for about 15 minutes since 2021-02-18 16:56:00 UTC."
+}

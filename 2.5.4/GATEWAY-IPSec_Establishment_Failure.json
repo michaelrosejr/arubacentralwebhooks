@@ -1,1 +1,27 @@
-{"id": "AXdi4-5Bo68tULajRU_R", "nid": 1550, "alert_type": "WAN_IPSEC_SA_ESTABILSHMENT_FAILED", "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1550", "device_id": "CNJJKLB0NZ", "description": "IPSec Tunnel Establishment from 192.168.36.10 to 192.168.103.99 failed on    device WTH-9004-3 with serial CNJJKLB0NZ at 2021-02-02 13:17:20 UTC", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1612271840, "details": {"src_ip": "192.168.36.10", "dst_ip": "192.168.103.99", "alias_map_name": "WTH-9004-3:inet_inet::GSK_VPNC2:vlan103", "link_tag": "inet_inet", "hostname": "WTH-9004-3", "serial": "CNJJKLB0NZ", "group": "36", "labels": ["8"], "time": "2021-02-02 13:17:20 UTC"}, "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee", "text": "IPSec Tunnel Establishment from 192.168.36.10 to 192.168.103.99 failed on    device WTH-9004-3 with serial CNJJKLB0NZ at 2021-02-02 13:17:20 UTC"}
+{
+    "id": "AXdi4-5Bo68tULajRU_R",
+    "nid": 1550,
+    "alert_type": "WAN_IPSEC_SA_ESTABILSHMENT_FAILED",
+    "setting_id": "6039f9543bac449291bfcd19eb10d1eb-1550",
+    "device_id": "CNJJKLB0NZ",
+    "description": "IPSec Tunnel Establishment from 192.168.36.10 to 192.168.103.99 failed on    device WTH-9004-3 with serial CNJJKLB0NZ at 2021-02-02 13:17:20 UTC",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1612271840,
+    "details": {
+        "src_ip": "192.168.36.10",
+        "dst_ip": "192.168.103.99",
+        "alias_map_name": "WTH-9004-3:inet_inet::GSK_VPNC2:vlan103",
+        "link_tag": "inet_inet",
+        "hostname": "WTH-9004-3",
+        "serial": "CNJJKLB0NZ",
+        "group": "36",
+        "labels": [
+            "8"
+        ],
+        "time": "2021-02-02 13:17:20 UTC"
+    },
+    "webhook": "a82456c8-1402-4fe1-a195-0131e6b392ee",
+    "text": "IPSec Tunnel Establishment from 192.168.36.10 to 192.168.103.99 failed on    device WTH-9004-3 with serial CNJJKLB0NZ at 2021-02-02 13:17:20 UTC"
+}

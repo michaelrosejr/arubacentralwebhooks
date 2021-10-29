@@ -1,1 +1,26 @@
-{"id": "AXdhcXF1o68tULajRFld", "nid": 3, "alert_type": "New AP detected", "setting_id": "55ef4ae129a24c2180e010708202b502-3", "device_id": "DZ0001581", "description": "New AP f0:5c:19:c9:f7:6a with MAC address f0:5c:19:c9:f7:6a detected, Group:unprovisioned", "state": "Open", "severity": "Major", "operation": "create", "timestamp": 1612247560, "details": {"group": "1", "labels": "", "_rule_number": "0", "params": ["f0:5c:19:c9:f7:6a", "f0:5c:19:c9:f7:6a"], "serial": "DZ0001581", "time": "2021-02-02 06:32:40 UTC", "group_name": "unprovisioned"}, "webhook": "110576c0-59fb-4295-b53b-fdbafbc95dee", "text": "New AP f0:5c:19:c9:f7:6a with MAC address f0:5c:19:c9:f7:6a detected, Group:unprovisioned"}
+{
+    "id": "AXdhcXF1o68tULajRFld",
+    "nid": 3,
+    "alert_type": "New AP detected",
+    "setting_id": "55ef4ae129a24c2180e010708202b502-3",
+    "device_id": "DZ0001581",
+    "description": "New AP f0:5c:19:c9:f7:6a with MAC address f0:5c:19:c9:f7:6a detected, Group:unprovisioned",
+    "state": "Open",
+    "severity": "Major",
+    "operation": "create",
+    "timestamp": 1612247560,
+    "details": {
+        "group": "1",
+        "labels": "",
+        "_rule_number": "0",
+        "params": [
+            "f0:5c:19:c9:f7:6a",
+            "f0:5c:19:c9:f7:6a"
+        ],
+        "serial": "DZ0001581",
+        "time": "2021-02-02 06:32:40 UTC",
+        "group_name": "unprovisioned"
+    },
+    "webhook": "110576c0-59fb-4295-b53b-fdbafbc95dee",
+    "text": "New AP f0:5c:19:c9:f7:6a with MAC address f0:5c:19:c9:f7:6a detected, Group:unprovisioned"
+}

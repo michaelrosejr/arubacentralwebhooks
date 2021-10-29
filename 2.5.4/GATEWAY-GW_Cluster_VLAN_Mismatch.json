@@ -1,1 +1,24 @@
-{"id": "AXd9rMzXo68tULajWxbZ", "nid": 1801, "alert_type": "GW_CLUSTER_VLAN_MISMATCH", "setting_id": "abce082bef4a428bb31366f6d6ff223f-1801", "device_id": "54", "description": "There is a VLAN mismatch in cluster C2C-253-YODA between Gateway with    serial: CG0020729 and Gateway with serial: CG0021234.", "state": "Close", "severity": "Minor", "operation": "update", "timestamp": 1612722281, "details": {"gateway2": "CG0021234", "gateway1": "CG0020729", "serial": "54", "alert_key": "CG0020729-CG0021234", "time": "2021-02-07 18:06:52 UTC", "cluster-name": "C2C-253-YODA", "group": "278", "labels": []}, "webhook": "52e0abbd-cdda-45f2-bd68-3107fef43841", "text": "There is a VLAN mismatch in cluster C2C-253-YODA between Gateway with    serial: CG0020729 and Gateway with serial: CG0021234."}
+{
+    "id": "AXd9rMzXo68tULajWxbZ",
+    "nid": 1801,
+    "alert_type": "GW_CLUSTER_VLAN_MISMATCH",
+    "setting_id": "abce082bef4a428bb31366f6d6ff223f-1801",
+    "device_id": "54",
+    "description": "There is a VLAN mismatch in cluster C2C-253-YODA between Gateway with    serial: CG0020729 and Gateway with serial: CG0021234.",
+    "state": "Close",
+    "severity": "Minor",
+    "operation": "update",
+    "timestamp": 1612722281,
+    "details": {
+        "gateway2": "CG0021234",
+        "gateway1": "CG0020729",
+        "serial": "54",
+        "alert_key": "CG0020729-CG0021234",
+        "time": "2021-02-07 18:06:52 UTC",
+        "cluster-name": "C2C-253-YODA",
+        "group": "278",
+        "labels": []
+    },
+    "webhook": "52e0abbd-cdda-45f2-bd68-3107fef43841",
+    "text": "There is a VLAN mismatch in cluster C2C-253-YODA between Gateway with    serial: CG0020729 and Gateway with serial: CG0021234."
+}

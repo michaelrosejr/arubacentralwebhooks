@@ -1,1 +1,27 @@
-{"id": "AXdhYFm6o68tULajREe4", "nid": 1252, "alert_type": "AP_RADIO_OVER_UTILIZATION", "setting_id": "55ef4ae129a24c2180e010708202b502-1252", "device_id": "DZ0001581", "description": "Radio utilization on AP f0:5c:19:c9:f7:6a operating on channel 132E and    serving 0 clients has been above 5% for about 5 minutes since 2021-02-02 06:09:00 UTC", "state": "Open", "severity": "Major", "operation": "create", "timestamp": 1612246440, "details": {"name": "f0:5c:19:c9:f7:6a", "_band": "1", "_radio_num": "0", "channel": "132E", "client_count": "0", "unit": "%", "serial": "DZ0001581", "group": "1", "_rule_number": "0", "ds_key": "55ef4ae129a24c2180e010708202b502.DZ0001581.radio.busy64", "duration": "5", "threshold": "5", "time": "2021-02-02 06:09:00 UTC"}}
+{
+    "id": "AXdhYFm6o68tULajREe4",
+    "nid": 1252,
+    "alert_type": "AP_RADIO_OVER_UTILIZATION",
+    "setting_id": "55ef4ae129a24c2180e010708202b502-1252",
+    "device_id": "DZ0001581",
+    "description": "Radio utilization on AP f0:5c:19:c9:f7:6a operating on channel 132E and    serving 0 clients has been above 5% for about 5 minutes since 2021-02-02 06:09:00 UTC",
+    "state": "Open",
+    "severity": "Major",
+    "operation": "create",
+    "timestamp": 1612246440,
+    "details": {
+        "name": "f0:5c:19:c9:f7:6a",
+        "_band": "1",
+        "_radio_num": "0",
+        "channel": "132E",
+        "client_count": "0",
+        "unit": "%",
+        "serial": "DZ0001581",
+        "group": "1",
+        "_rule_number": "0",
+        "ds_key": "55ef4ae129a24c2180e010708202b502.DZ0001581.radio.busy64",
+        "duration": "5",
+        "threshold": "5",
+        "time": "2021-02-02 06:09:00 UTC"
+    }
+}

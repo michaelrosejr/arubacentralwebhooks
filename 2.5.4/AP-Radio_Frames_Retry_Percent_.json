@@ -1,1 +1,30 @@
-{"id": "AXdrc2PMo68tULajSvRF", "nid": 1256, "alert_type": "AP_TX_RETRY_PERCENT", "setting_id": "2a35217e2f114cd8958f00a676258785-1256", "device_id": "VEYB000004", "description": "Radio frames retry percent for AP VEYB000004 with serial VEYB000004 has been    above 1% for about 5 minutes since 2021-02-04 05:06:00 UTC", "state": "Open", "severity": "Major", "operation": "create", "timestamp": 1612415460, "details": {"name": "VEYB000004", "_band": "0", "_radio_num": "0", "channel": "11", "client_count": "1", "unit": "%", "serial": "VEYB000004", "group": "2", "labels": "4", "_rule_number": "0", "ds_key": "2a35217e2f114cd8958f00a676258785.VEYB000004.radio.retry_percent", "duration": "5", "threshold": "1", "time": "2021-02-04 05:06:00 UTC"}, "webhook": "bd4f20e6-55e6-4360-ab55-da2829f1a390", "text": "Radio frames retry percent for AP VEYB000004 with serial VEYB000004 has been    above 1% for about 5 minutes since 2021-02-04 05:06:00 UTC"}
+{
+    "id": "AXdrc2PMo68tULajSvRF",
+    "nid": 1256,
+    "alert_type": "AP_TX_RETRY_PERCENT",
+    "setting_id": "2a35217e2f114cd8958f00a676258785-1256",
+    "device_id": "VEYB000004",
+    "description": "Radio frames retry percent for AP VEYB000004 with serial VEYB000004 has been    above 1% for about 5 minutes since 2021-02-04 05:06:00 UTC",
+    "state": "Open",
+    "severity": "Major",
+    "operation": "create",
+    "timestamp": 1612415460,
+    "details": {
+        "name": "VEYB000004",
+        "_band": "0",
+        "_radio_num": "0",
+        "channel": "11",
+        "client_count": "1",
+        "unit": "%",
+        "serial": "VEYB000004",
+        "group": "2",
+        "labels": "4",
+        "_rule_number": "0",
+        "ds_key": "2a35217e2f114cd8958f00a676258785.VEYB000004.radio.retry_percent",
+        "duration": "5",
+        "threshold": "1",
+        "time": "2021-02-04 05:06:00 UTC"
+    },
+    "webhook": "bd4f20e6-55e6-4360-ab55-da2829f1a390",
+    "text": "Radio frames retry percent for AP VEYB000004 with serial VEYB000004 has been    above 1% for about 5 minutes since 2021-02-04 05:06:00 UTC"
+}

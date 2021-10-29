@@ -1,1 +1,30 @@
-{"id": "AXt4qBL_fvwY_x8ol-sJ", "nid": 1308, "alert_type": "SWITCH_STP_ROOT_CHANGE", "setting_id": "417fc95887044bcba9b3e2ce3830aecb-1308", "device_id": "QXRF011180", "description": "CST Root changed on Sep 24 10:57:09 from Switch QXRF011180.   dummy with Serial: QXRF011180, IP Address: 75.200.87.30 and Priority: 24576 to   Switch 70:10:6f:84:0c:80 with Serial: QXRF011180, IP Address: 75.200.87.30 and Priority 20480", "state": "Open", "severity": "Critical", "operation": "create", "timestamp": 1629816886, "details": {"ts": "Sep 24 10:57:09", "pr1": "24576", "pr2": "20480", "host1": "QXRF011180.dummy", "host2": "70:10:6f:84:0c:80", "ip1": "75.200.87.30", "ip2": " ", "serial1": "QXRF011180", "serial2": " ", "type": "CST", "group": "16336", "labels": "5844", "serial": "QXRF011180", "time": "2021-08-24 14:54:46 UTC"}, "webhook": "34000e8a-475c-46e3-9bec-79c5f281e868", "text": "CST Root changed on Sep 24 10:57:09 from Switch QXRF011180.dummy with    Serial: QXRF011180, IP Address: 75.200.87.30 and Priority: 24576 to Switch 70:10:6f:84:0c:80    with Serial: QXRF011180, IP Address: 75.200.87.30 and Priority 2048"}
+{
+    "id": "AXt4qBL_fvwY_x8ol-sJ",
+    "nid": 1308,
+    "alert_type": "SWITCH_STP_ROOT_CHANGE",
+    "setting_id": "417fc95887044bcba9b3e2ce3830aecb-1308",
+    "device_id": "QXRF011180",
+    "description": "CST Root changed on Sep 24 10:57:09 from Switch QXRF011180.   dummy with Serial: QXRF011180, IP Address: 75.200.87.30 and Priority: 24576 to   Switch 70:10:6f:84:0c:80 with Serial: QXRF011180, IP Address: 75.200.87.30 and Priority 20480",
+    "state": "Open",
+    "severity": "Critical",
+    "operation": "create",
+    "timestamp": 1629816886,
+    "details": {
+        "ts": "Sep 24 10:57:09",
+        "pr1": "24576",
+        "pr2": "20480",
+        "host1": "QXRF011180.dummy",
+        "host2": "70:10:6f:84:0c:80",
+        "ip1": "75.200.87.30",
+        "ip2": " ",
+        "serial1": "QXRF011180",
+        "serial2": " ",
+        "type": "CST",
+        "group": "16336",
+        "labels": "5844",
+        "serial": "QXRF011180",
+        "time": "2021-08-24 14:54:46 UTC"
+    },
+    "webhook": "34000e8a-475c-46e3-9bec-79c5f281e868",
+    "text": "CST Root changed on Sep 24 10:57:09 from Switch QXRF011180.dummy with    Serial: QXRF011180, IP Address: 75.200.87.30 and Priority: 24576 to Switch 70:10:6f:84:0c:80    with Serial: QXRF011180, IP Address: 75.200.87.30 and Priority 2048"
+}
